@@ -1,2 +1,2 @@
 # nbody-with-CUDA
-GPU programming exercise
+a GPU programming exercise
