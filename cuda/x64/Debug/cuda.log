@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\project\c\cuda\cuda\main.cpp(195): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+  cuda.vcxproj -> E:\project\c\cuda\x64\Debug\cuda.exe
